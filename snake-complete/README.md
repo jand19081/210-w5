@@ -33,4 +33,4 @@ root                    (project root folder)
 
 ## Authors
 ---
-* TODO: Add your name and email here
+Jarom Anderson (jand19081@byui.edu)
